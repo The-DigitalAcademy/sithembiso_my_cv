@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sithembiso_my_cv/static/css/main.73201f0a.css",
-    "main.js": "/sithembiso_my_cv/static/js/main.5e2ae5c9.js",
+    "main.css": "/sithembiso_my_cv/static/css/main.cdcc1634.css",
+    "main.js": "/sithembiso_my_cv/static/js/main.f5b32716.js",
     "static/media/sithembiso.jpeg": "/sithembiso_my_cv/static/media/sithembiso.433d0bd19652f213e4d9.jpeg",
     "static/media/NavBar.jpeg": "/sithembiso_my_cv/static/media/NavBar.d8449183d7b4a988ed31.jpeg",
     "static/media/InstallNodejs.png": "/sithembiso_my_cv/static/media/InstallNodejs.deba934a050d165f7634.png",
@@ -14,11 +14,11 @@
     "static/media/Trello.webp": "/sithembiso_my_cv/static/media/Trello.5ca71b18b5a994ff8ffe.webp",
     "static/media/Slack.webp": "/sithembiso_my_cv/static/media/Slack.241817ed2005da57e069.webp",
     "index.html": "/sithembiso_my_cv/index.html",
-    "main.73201f0a.css.map": "/sithembiso_my_cv/static/css/main.73201f0a.css.map",
-    "main.5e2ae5c9.js.map": "/sithembiso_my_cv/static/js/main.5e2ae5c9.js.map"
+    "main.cdcc1634.css.map": "/sithembiso_my_cv/static/css/main.cdcc1634.css.map",
+    "main.f5b32716.js.map": "/sithembiso_my_cv/static/js/main.f5b32716.js.map"
   },
   "entrypoints": [
-    "static/css/main.73201f0a.css",
-    "static/js/main.5e2ae5c9.js"
+    "static/css/main.cdcc1634.css",
+    "static/js/main.f5b32716.js"
   ]
 }
