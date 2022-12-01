@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sithembiso_my_cv/static/css/main.ef81994c.css",
-    "main.js": "/sithembiso_my_cv/static/js/main.c1b9b6d9.js",
+    "main.js": "/sithembiso_my_cv/static/js/main.a12c9ed6.js",
     "static/media/ArrayDestruct.jpeg": "/sithembiso_my_cv/static/media/ArrayDestruct.f6b295ee07913025825b.jpeg",
     "static/media/sithembiso.jpeg": "/sithembiso_my_cv/static/media/sithembiso.433d0bd19652f213e4d9.jpeg",
     "static/media/NavBar.jpeg": "/sithembiso_my_cv/static/media/NavBar.d8449183d7b4a988ed31.jpeg",
@@ -15,10 +15,10 @@
     "static/media/Slack.webp": "/sithembiso_my_cv/static/media/Slack.241817ed2005da57e069.webp",
     "index.html": "/sithembiso_my_cv/index.html",
     "main.ef81994c.css.map": "/sithembiso_my_cv/static/css/main.ef81994c.css.map",
-    "main.c1b9b6d9.js.map": "/sithembiso_my_cv/static/js/main.c1b9b6d9.js.map"
+    "main.a12c9ed6.js.map": "/sithembiso_my_cv/static/js/main.a12c9ed6.js.map"
   },
   "entrypoints": [
     "static/css/main.ef81994c.css",
-    "static/js/main.c1b9b6d9.js"
+    "static/js/main.a12c9ed6.js"
   ]
 }
