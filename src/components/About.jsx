@@ -13,11 +13,7 @@ const About = () => {
                 </div>
 
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore corporis aspernatur at harum cumque voluptatibus porro vero perferendis, molestias voluptatum, hic nostrum eos repellat alias ut. Labore eveniet esse magnam laudantium distinctio, tempore molestiae maxime accusantium natus quia sequi praesentium iusto asperiores iure repellat quos id quas inventore illum repellendus.
-                </p>
-                <br />
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas doloribus, odio excepturi neque fugit repudiandae quis eaque vel soluta suscipit ad perspiciatis corporis est ea modi aliquam maxime aspernatur unde quia aliquid cumque necessitatibus? Aut in quod et ipsa magnam, beatae impedit animi nostrum, velit aliquid dolore sapiente odit deserunt?
+                    I'm a very warm and friendly person. i enjoy being able to work alone or as part of a team. i am honest and punctual. Open to new skills and challenges.
                 </p>
             </div>
 
