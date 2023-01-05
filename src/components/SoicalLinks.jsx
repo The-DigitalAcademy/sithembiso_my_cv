@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaGithub, FaWhatsapp, FaFacebook } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
+import { TiMessages } from 'react-icons/ti';
 
 
 const SoicalLinks = () => {
@@ -45,6 +46,17 @@ const SoicalLinks = () => {
             href: "https://en-gb.facebook.com/",
             style: "rounded-tr-md",
 
+        },
+        {
+            id: 5,
+            child: (
+                <>
+                    Messages <TiMessages size={30} />
+                </>
+            ),
+            href: "https://messages.google.com/web/authentication",
+            style: "rounded-tr-md",
+        
         }
     ]
 
