@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sithembiso_my_cv/static/css/main.a3b85f4b.css",
-    "main.js": "/sithembiso_my_cv/static/js/main.178e6140.js",
+    "main.js": "/sithembiso_my_cv/static/js/main.c967e626.js",
     "static/media/sithembiso.jpeg": "/sithembiso_my_cv/static/media/sithembiso.433d0bd19652f213e4d9.jpeg",
     "static/media/NavBar.jpeg": "/sithembiso_my_cv/static/media/NavBar.d8449183d7b4a988ed31.jpeg",
     "static/media/InstallNodejs.png": "/sithembiso_my_cv/static/media/InstallNodejs.deba934a050d165f7634.png",
@@ -15,10 +15,10 @@
     "static/media/Slack.webp": "/sithembiso_my_cv/static/media/Slack.241817ed2005da57e069.webp",
     "index.html": "/sithembiso_my_cv/index.html",
     "main.a3b85f4b.css.map": "/sithembiso_my_cv/static/css/main.a3b85f4b.css.map",
-    "main.178e6140.js.map": "/sithembiso_my_cv/static/js/main.178e6140.js.map"
+    "main.c967e626.js.map": "/sithembiso_my_cv/static/js/main.c967e626.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b85f4b.css",
-    "static/js/main.178e6140.js"
+    "static/js/main.c967e626.js"
   ]
 }
